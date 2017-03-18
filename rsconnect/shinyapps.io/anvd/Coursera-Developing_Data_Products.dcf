@@ -1,0 +1,11 @@
+name: Coursera-Developing_Data_Products
+title:
+account: anvd
+server: shinyapps.io
+appId: 164869
+bundleId: 752558
+url: https://anvd.shinyapps.io/Coursera-Developing_Data_Products/
+when: 1489855069.01531
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DDP_Presentation.md|DDP_Presentation.Rpres|DDP_Presentation-figure/unnamed-chunk-2-1.png
